@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/color-blocks/static/js/main.7747b9e9.js",
+    "main.js": "/color-blocks/static/js/main.efa57cc2.js",
     "index.html": "/color-blocks/index.html",
-    "main.7747b9e9.js.map": "/color-blocks/static/js/main.7747b9e9.js.map"
+    "main.efa57cc2.js.map": "/color-blocks/static/js/main.efa57cc2.js.map"
   },
   "entrypoints": [
-    "static/js/main.7747b9e9.js"
+    "static/js/main.efa57cc2.js"
   ]
 }
